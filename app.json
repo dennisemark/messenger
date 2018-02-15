@@ -1,0 +1,31 @@
+{
+  "name": "Salesforce Bot for Messenger",
+  "description": "Sample Salesforce Bot for Messenger",
+  "env": {
+    "FB_PAGE_TOKEN": {
+        "description": "Facebook Messenger Access Token",
+        "value":"EAAFpEdjh05UBAAXlw52pQPOZCsBawXDr3u2ecZACNp43jZBfdyZBOjNPXxPftijrHM80C2AB0F8bMpURyDqoOegm70XeZCJFr8UdSvXc8kaZBrE1NXHtAOEnGIz5H7ePvcfEhjWuPGmtAd0SxvNEvTKJC0zLOrJZBPo8gDf7mnPspAemMngzEFb",
+        "required":false
+    },
+    "FB_VERIFY_TOKEN": {
+        "description": "Facebook Verify Token",
+        "value":"morafit"
+    },
+    "SF_CLIENT_ID": {
+        "description": "Consumer Key of your Salesforce Connected App",
+        "value":"3MVG9d8..z.hDcPI_22gdFJXOrYBjdx4YYOg8_eLtBg7K_09I5WwtmVfMHAucGJsm59CA5bJqCJ8.FA75jI4C"
+    },
+    "SF_CLIENT_SECRET": {
+        "description": "Consumer Secret of your Salesforce Connected App",
+        "value":"8645300370660640754"
+    },
+    "SF_USER_NAME": {
+        "description": "Salesforce username for your integration user",
+        "value":"Kasundi@94sxsb89GHye9ndvTaS9j9dCjo"
+    },
+    "SF_PASSWORD": {
+        "description": "Salesforce password for your integration user",
+        "value":"jk@training.lk"
+    }
+  }
+}
