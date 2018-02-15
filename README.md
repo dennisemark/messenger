@@ -1,8 +1,6 @@
-## Salesforce Bot for Facebook Messenger
+## Messenger Bot connected to saleforce
 
-A simple Salesforce bot for Facebook Messenger.
-
-See [this blog post](http://coenraets.org/blog/2016/04/salesforce-bot-for-facebook-messenger/) for details.
+Visit [here](http://coenraets.org/blog/2016/04/salesforce-bot-for-facebook-messenger/) for more details.
 
 
 1. Click the button below to deploy the Messenger bot on Heroku:
