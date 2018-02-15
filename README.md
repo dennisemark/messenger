@@ -1,6 +1,5 @@
-## Salesforce Bot for Facebook Messenger
+##Messenger bot connected to salesforce
 
-A simple Salesforce bot for Facebook Messenger.
 
 Visit the below blog for more info.
 
